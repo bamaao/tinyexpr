@@ -1,0 +1,14 @@
+# Cargo
+/target/
+**/*.rs.bk
+
+# MSVC debug symbols
+*.pdb
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
